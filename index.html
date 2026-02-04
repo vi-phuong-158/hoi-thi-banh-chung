@@ -858,29 +858,46 @@
         let isPlaying = false;
 
         // Auto play handling
-        window.addEventListener('load', () => {
+        function tryPlayMusic() {
             bgMusic.play().then(() => {
-                isPlaying = true;
-                musicBtn.classList.add('playing');
-                musicBtn.innerHTML = '<i class="fas fa-pause"></i>'; // Set icon to pause when playing
-            }).catch(error => {
-                console.log("Autoplay prevented by browser, waiting for interaction.");
-                // Add a one-time click listener to start music if autoplay failed
-                document.addEventListener('click', startMusicOnFirstClick, { once: true });
-            });
-        });
-
-        function startMusicOnFirstClick() {
-            if (!isPlaying) {
-                bgMusic.play().then(() => {
+                if (!isPlaying) {
                     isPlaying = true;
                     musicBtn.classList.add('playing');
-                    musicBtn.innerHTML = '<i class="fas fa-pause"></i>'; // Set icon to pause when playing
-                }).catch(e => {
-                    console.log("Music play failed on first interaction:", e);
-                });
-            }
+                    musicBtn.innerHTML = '<i class="fas fa-pause"></i>';
+                    // Remove listeners once played
+                    removeInteractionListeners();
+                }
+            }).catch(error => {
+                console.log("Autoplay prevented, waiting for interaction.");
+            });
         }
+
+        function startMusicOnInteraction() {
+            tryPlayMusic();
+        }
+
+        function addInteractionListeners() {
+            document.addEventListener('click', startMusicOnInteraction);
+            document.addEventListener('scroll', startMusicOnInteraction);
+            document.addEventListener('keydown', startMusicOnInteraction);
+            document.addEventListener('touchstart', startMusicOnInteraction);
+            document.addEventListener('mousemove', startMusicOnInteraction);
+        }
+
+        function removeInteractionListeners() {
+            document.removeEventListener('click', startMusicOnInteraction);
+            document.removeEventListener('scroll', startMusicOnInteraction);
+            document.removeEventListener('keydown', startMusicOnInteraction);
+            document.removeEventListener('touchstart', startMusicOnInteraction);
+            document.removeEventListener('mousemove', startMusicOnInteraction);
+        }
+
+        // Try to play immediately on load
+        window.addEventListener('load', () => {
+            tryPlayMusic();
+            // Also add listeners in case load play fails
+            addInteractionListeners();
+        });
 
         musicBtn.addEventListener('click', () => {
             if (isPlaying) {
