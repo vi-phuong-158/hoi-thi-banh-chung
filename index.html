@@ -622,8 +622,8 @@
         <i class="fas fa-music"></i>
     </div>
     <!-- Hidden Audio - Using a placeholder royalty free tet music if available or generic -->
-    <audio id="bgMusic" loop>
-        <source src="https://example.com/tet-music.mp3" type="audio/mpeg">
+    <audio id="bgMusic" loop autoplay>
+        <source src="nhac-tet.mp3" type="audio/mpeg">
         <!-- Developer note: User should update with valid mp3 url -->
     </audio>
 
@@ -690,6 +690,7 @@
         </div>
     </section>
 
+
     <!-- ========== Ý NGHĨA BÁNH CHƯNG ========== -->
     <section class="meaning-section">
         <div class="container dual-layout">
@@ -743,13 +744,24 @@
             <div class="digital-grid">
                 <div class="digital-card reveal-on-scroll">
                     <h4><i class="fas fa-apple-alt"></i> Mâm Ngũ Quả</h4>
+                    <!-- New Image Added Here -->
+                    <div style="text-align: center; margin-bottom: 1.5rem;">
+                        <img src="Icon/ngu-qua.png" alt="Mâm ngũ quả"
+                            style="max-width: 100%; border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
+                    </div>
+
                     <ul class="fruit-list">
-                        <li><strong>Chuối Xanh</strong>: Bàn tay che chở, bao bọc bình yên và hy vọng của sức trẻ.</li>
-                        <li><strong>Bưởi/Phật Thủ</strong>: Viên mãn, thế trận an ninh kín kẽ, "trong ấm ngoài êm".</li>
-                        <li><strong>Sung & Đu Đủ</strong>: Sung sức, đủ bản lĩnh và trí tuệ làm chủ <strong>công nghệ
-                                (PA05)</strong>.</li>
-                        <li><strong>Ớt & Quất</strong>: Sắc màu may mắn, cũng là <span
-                                style="color:var(--color-gold)">tín hiệu cảnh báo</span> sắc bén.</li>
+                        <li><strong>Chuối Xanh</strong>: Bàn tay ngửa lên bao bọc, chở che. Điểm tựa vững chắc, bảo vệ
+                            sự bình yên.</li>
+                        <li><strong>Bưởi Đỏ</strong>: Màu đỏ thắm – màu của nhiệt huyết. Tấm lòng son sắt, tuyệt đối
+                            trung thành với Đảng, với Tổ quốc.</li>
+                        <li><strong>Chùm Nho & Táo</strong>:
+                            <br> - <em>Nho</em>: Kết lại chặt chẽ - liên kết mạng lưới thông suốt.
+                            <br> - <em>Táo</em>: Những thành quả ngọt ngào, những chiến công quyết tâm gặt hái.
+                        </li>
+                        <li><strong>Ớt</strong>: Khí thế hừng hực, nhưng cũng là <span
+                                style="color:var(--color-gold)">"tín hiệu cảnh báo"</span> sắc bén trước mọi âm mưu tội
+                            phạm.</li>
                     </ul>
                 </div>
 
@@ -840,10 +852,35 @@
         function openLightbox(src) { lightboxImg.src = src; lightbox.classList.add('active'); document.body.style.overflow = 'hidden'; }
         function closeLightbox() { lightbox.classList.remove('active'); document.body.style.overflow = ''; }
 
-        // Music Player
+        // Music Player Logic
         const musicBtn = document.getElementById('musicBtn');
         const bgMusic = document.getElementById('bgMusic');
         let isPlaying = false;
+
+        // Auto play handling
+        window.addEventListener('load', () => {
+            bgMusic.play().then(() => {
+                isPlaying = true;
+                musicBtn.classList.add('playing');
+                musicBtn.innerHTML = '<i class="fas fa-pause"></i>'; // Set icon to pause when playing
+            }).catch(error => {
+                console.log("Autoplay prevented by browser, waiting for interaction.");
+                // Add a one-time click listener to start music if autoplay failed
+                document.addEventListener('click', startMusicOnFirstClick, { once: true });
+            });
+        });
+
+        function startMusicOnFirstClick() {
+            if (!isPlaying) {
+                bgMusic.play().then(() => {
+                    isPlaying = true;
+                    musicBtn.classList.add('playing');
+                    musicBtn.innerHTML = '<i class="fas fa-pause"></i>'; // Set icon to pause when playing
+                }).catch(e => {
+                    console.log("Music play failed on first interaction:", e);
+                });
+            }
+        }
 
         musicBtn.addEventListener('click', () => {
             if (isPlaying) {
@@ -895,6 +932,8 @@
         function animate() { ctx.clearRect(0, 0, width, height); petals.forEach(p => { p.update(); p.draw(); }); requestAnimationFrame(animate); }
         animate();
     </script>
+
+    <!-- Calligraphy Script Removed -->
 </body>
 
 </html>

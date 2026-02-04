@@ -1,65 +1,34 @@
 KỊCH BẢN THUYẾT TRÌNH HỘI THI GÓI BÁNH CHƯNG
-
-Chủ đề: "XUÂN AN NINH - TẾT HỘI NHẬP & KỶ NGUYÊN SỐ"
+Chủ đề: "AN NINH ĐẤT TỔ - GÓI TRỌN NIỀM TIN"
 Đơn vị thực hiện: Đội thi số 2 (Liên quân PA01 - PA05 - PA08 - PA09)
-Người trình bày: ........................................................................
+Người trình bày: Vi Ngọc Quân – PA05.
 Thời lượng: 04 - 05 phút
-
-I. PHẦN MỞ ĐẦU (Khoảng 30 giây)
-
-(Người thuyết trình bước lên, trang phục chỉnh tề, phong thái tự tin, tươi cười chào Ban Giám khảo và khán giả)
-
-Lời chào:
+I. PHẦN MỞ ĐẦU
+(Người thuyết trình chào điều lệnh)
 "Kính thưa Ban Giám khảo, thưa toàn thể Hội thi!
-Trong không khí rộn ràng của những ngày đầu Xuân Bính Ngọ 2026, Đội thi số 2 chúng tôi rất vinh dự được có mặt tại đây, mang theo khí thế của những chiến sĩ An ninh trên mặt trận thầm lặng."
+Đến với Hội thi gói bánh chưng Xuân Bính Ngọ 2026, Đội thi số 2 chúng tôi là sự hội tụ của 04 đơn vị nghiệp vụ An ninh, mang theo tinh thần: 'Đoàn kết - Kỷ cương - Hiệp đồng - Chiến thắng'.
 
-Giới thiệu Đội thi (Nhấn mạnh sự liên kết các đơn vị):
-"Đội thi số 2 là sự hội tụ sức mạnh của 04 đơn vị:
-
-Đó là bản lĩnh chính trị, sự sắc bén nghiệp vụ của Phòng An ninh điều tra (PA09).
-
-Là sự chủ động, mưu trí của những 'đại sứ an ninh' Phòng An ninh đối ngoại (PA01) và Phòng Quản lý xuất nhập cảnh (PA08) – những người gác cửa ngõ, mở lối hội nhập.
-
-Và đặc biệt, là tư duy đổi mới, sáng tạo của những 'chiến binh số' Phòng An ninh mạng và phòng chống tội phạm công nghệ cao (PA05).
-
-Đến với Hội thi hôm nay, chúng tôi mang đến tác phẩm dự thi với chủ đề: 'Gìn giữ hồn Dân tộc - Vững bước Kỷ nguyên số'."
-
-II. PHẦN NỘI DUNG CHÍNH (Khoảng 3 phút)
-
-(Người thuyết trình di chuyển nhẹ nhàng, tay chỉ về phía sản phẩm trưng bày)
-
-1. Thuyết minh về Bánh Chưng - "Nền tảng truyền thống"
-
-"Kính thưa Ban Giám khảo,
-Nhìn vào những chiếc bánh chưng xanh vuông vắn này, chúng tôi không chỉ thấy hương vị của Tết, mà còn thấy hình ảnh của người chiến sĩ Công an nhân dân.
-
-Hình dáng vuông vức: Tượng trưng cho Đất, nhưng cũng là biểu tượng cho sự chính trực, kỷ cương – nguyên tắc làm việc bất di bất dịch của lực lượng An ninh điều tra (PA09). Mọi góc cạnh sắc nét như sự thượng tôn pháp luật, không có vùng cấm, không có ngoại lệ.
-
-Lạt mềm buộc chặt: Những chiếc lạt giang dẻo dai buộc chặt tấm bánh cũng giống như sự mềm dẻo, linh hoạt trong công tác đối ngoại và quản lý xuất nhập cảnh (PA01, PA08). 'Lạt mềm' nhưng giữ được 'bánh chắc', khéo léo trong giao tiếp để giữ vững chủ quyền, an ninh quốc gia từ sớm, từ xa.
-
-Nhân bánh đầm đà: Gạo nếp, đỗ xanh, thịt mỡ hòa quyện vào nhau như tình quân dân cá nước, là cội nguồn sức mạnh để chúng tôi hoàn thành nhiệm vụ."
-
-2. Thuyết minh về Mâm Ngũ Quả - "Khát vọng vươn xa"
-
-(Chuyển sang mâm ngũ quả)
-
-"Bên cạnh bánh chưng xanh là Mâm ngũ quả rực rỡ sắc màu. Năm nay, Đội 2 không chỉ chọn ngũ quả theo ngũ hành (Kim - Mộc - Thủy - Hỏa - Thổ) mà còn gửi gắm khát vọng của thời đại mới:
-
-Quả Sung & Quả Thanh Long: Biểu tượng cho sự sung túc và thăng hoa. Với chúng tôi, đó là khát vọng đưa công nghệ 'Rồng bay' vào công tác công an. Đây là dấu ấn của PA05, ứng dụng công nghệ cao để bảo vệ bình yên trên không gian mạng, biến thách thức của kỷ nguyên 4.0 thành thời cơ bảo vệ Tổ quốc.
-
-Quả Xoài & Quả Dừa: Cầu mong một năm mới 'tiêu xài' thời gian hiệu quả, vừa vặn, hài hòa. Nó thể hiện mong muốn mở rộng vòng tay hội nhập quốc tế của PA01 và PA08, đón bạn bè năm châu đến với Phú Thọ, đến với Việt Nam trong sự an toàn và thân thiện.
-
-Quả Đu đủ: Đủ đầy bản lĩnh, đủ đầy trí tuệ để đối mặt với mọi loại hình tội phạm mới.
-
-Tổng thể gian hàng của chúng tôi là sự giao thoa: Vừa có nét trầm mặc, uy nghiêm của truyền thống, vừa có sự tươi mới, năng động của hội nhập và công nghệ."
-
-III. PHẦN KẾT (Khoảng 30 giây)
-
-"Kính thưa Ban Giám khảo,
-Thông điệp cuối cùng mà Đội thi số 2 muốn gửi gắm: Dù công nghệ có hiện đại đến đâu, dù hội nhập có sâu rộng thế nào, thì Bánh chưng xanh - Hồn dân tộc vẫn là gốc rễ.
-
-Các chiến sĩ của PA01, PA05, PA08, PA09 nguyện đem sức trẻ, trí tuệ và công nghệ để gìn giữ sự bình yên cho từng nếp nhà, để mỗi mùa Tết đều là một mùa xuân trọn vẹn.
-
-Nhân dịp năm mới Bính Ngọ, xin kính chúc Ban Giám khảo, các đồng chí lãnh đạo và toàn thể đồng đội: Sức khỏe dồi dào - An ninh vững chắc - Hạnh phúc ngập tràn!
-
-Xin trân trọng cảm ơn!
+- Đó là sự nghiêm minh, sắc bén của Phòng An ninh điều tra (PA09).
+- Là sự bản lĩnh, khéo léo trong đối ngoại, quản lý cửa ngõ quốc gia của Phòng An ninh đối ngoại (PA01) và Phòng Quản lý xuất nhập cảnh (PA08).
+- Và tư duy nhạy bén, chính xác của Phòng An ninh mạng (PA05).
+Tất cả cùng hòa quyện để tạo nên tác phẩm dự thi mang chủ đề: 'AN NINH ĐẤT TỔ - GÓI TRỌN NIỀM TIN'."
+II. PHẦN THUYẾT TRÌNH SẢN PHẨM
+(Chỉ tay vào mâm bánh chưng)
+"Thưa Ban Giám khảo, Hình ảnh chiếc bánh chưng xanh không chỉ là hồn cốt dân tộc, mà còn là sự phản chiếu những phẩm chất cốt lõi của người chiến sĩ An ninh chúng tôi:
+- Về hình khối: Chiếc bánh vuông vắn, góc cạnh tượng trưng cho tính nghiêm minh của pháp luật. Đó là nguyên tắc làm việc của lực lượng An ninh điều tra (PA09) - luôn 'thượng tôn pháp luật', chắc chắn, thận trọng trong từng hồ sơ, từng vụ án, không bỏ lọt tội phạm nhưng cũng không làm oan người ngay.
+- Về sự kết nối: Những chiếc lạt giang buộc chặt bánh thể hiện sự gắn kết chặt chẽ giữa các đơn vị. Đồng thời, nó tượng trưng cho sự mềm dẻo, linh hoạt của công tác An ninh đối ngoại (PA01) và Xuất nhập cảnh (PA08). Chúng tôi kiên định về nguyên tắc nhưng linh hoạt về sách lược, như lạt mềm mà buộc chặt, giữ vững an ninh từ sớm, từ xa.
+Chính sự kết hợp hài hòa giữa 'Nhu' và 'Cương', giữa ngoại giao khéo léo và pháp luật nghiêm minh đã tạo nên bản sắc của liên quân chúng tôi:
+'Lạt mềm buộc chặt, ngoại giao khéo léo, yên bờ cõi
+Bánh vuông sắc cạnh, pháp luật nghiêm minh, giữ kỷ cương'
+- Về chất lượng: Nhân bánh đậm đà, được chọn lọc kỹ lưỡng cũng giống như sự tinh nhuệ, hiện đại của lực lượng An ninh mạng (PA05). Trong bối cảnh mới, chúng tôi luôn phải chắt lọc thông tin, xử lý chính xác để bảo vệ an toàn cho hệ thống an ninh quốc gia.
+(Chuyển sang mâm ngũ quả - Giọng hào hứng, tự hào hơn)
+"Bên cạnh sự vuông vức của bánh chưng là sự hài hòa, rực rỡ của Mâm ngũ quả. Chúng tôi chọn lọc những thức quả tươi ngon nhất, gửi gắm triết lý hành động:
+- Nải chuối xanh: Như bàn tay ngửa lên bao bọc, chở che. Đó là hình ảnh của lực lượng An ninh luôn là điểm tựa vững chắc, bao bọc sự bình yên cho nhân dân.
+- Quả Bưởi đỏ: Đặt ở trọng tâm với màu đỏ thắm – màu của nhiệt huyết và sự may mắn. Với người chiến sĩ An ninh, đây là biểu tượng cho tấm lòng son sắt, tuyệt đối trung thành với Đảng, với Tổ quốc.
+- Chùm nho và Trái táo: Thay vì chọn sự 'đủ đầy' đơn thuần, chúng tôi chọn Chùm nho kết lại chặt chẽ - tượng trưng cho sự liên kết mạng lưới thông suốt, đặc biệt là trong thế trận an ninh và sự phối hợp nhịp nhàng giữa các đơn vị. Những trái táo căng tròn thể hiện cho những thành quả ngọt ngào, những chiến công mà liên quân quyết tâm gặt hái.
+- Điểm xuyết những trái ớt đỏ rực: Được tạo hình như những ngọn lửa. Màu sắc rực rỡ tượng trưng cho khí thế hừng hực, nhưng cũng là những 'tín hiệu cảnh báo' sắc bén trước mọi âm mưu của tội phạm.
+Tổng hòa mâm ngũ quả với dòng chữ 'Tết Đoàn Viên' là lời khẳng định: An ninh có vững vàng, Tổ quốc có bình yên thì mọi nhà mới có được cái Tết sum vầy trọn vẹn."
+III. PHẦN KẾT
+"Kính thưa Ban Giám khảo, Sản phẩm của Đội thi số 2 tuy mộc mạc nhưng được làm bằng tất cả sự tỉ mỉ và tâm huyết của cán bộ chiến sĩ.
+Thông qua Hội thi, chúng tôi muốn khẳng định: Dù nhiệm vụ có khó khăn, dù lĩnh vực công tác có khác nhau (từ điều tra, đối ngoại đến an ninh mạng), nhưng khi đã đứng chung một màu cờ sắc áo, chúng tôi luôn đồng lòng, hiệp sức để hoàn thành xuất sắc nhiệm vụ mà Đảng và Ngành giao phó.
+Nhân dịp xuân mới, kính chúc Ban Giám khảo và các đồng chí: Sức khỏe - Hạnh phúc - Thắng lợi! Xin trân trọng cảm ơn!"
